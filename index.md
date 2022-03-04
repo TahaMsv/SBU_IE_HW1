@@ -1,5 +1,5 @@
-[ziplink](https://github.com/Aminsaveh/SBU_IE_HW1/archive/refs/heads/main.zip)
-[tarlink](https://github.com/Aminsaveh/SBU_IE_HW1/archive/refs/heads/main.zip)
+https://github.com/Aminsaveh/SBU_IE_HW1/archive/refs/heads/main.zip
+
 # Cool Compiler
 This project is developed for SBU Compiler Design Course - Fall 2020 
 
